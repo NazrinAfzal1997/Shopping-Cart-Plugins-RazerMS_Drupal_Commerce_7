@@ -1,3 +1,8 @@
+[Shopping Cart Plugins] – RazerMS Drupal Commerce 7 
+==================
+
+<img src="https://user-images.githubusercontent.com/38641542/74416364-04b56a80-4e80-11ea-977e-b5b857305ee6.jpg">
+
 # 🚚 Repository Moved
 
 This repository has been moved to a new location and is no longer actively maintained.
@@ -11,12 +16,6 @@ All future updates, bug fixes, and feature enhancements will be published in the
 Thank you for your support.
 
 ---
-
-
-[Shopping Cart Plugins] – RazerMS Drupal Commerce 7 
-==================
-
-<img src="https://user-images.githubusercontent.com/38641542/74416364-04b56a80-4e80-11ea-977e-b5b857305ee6.jpg">
 
 Razer Merchant Services Plugin for Drupal Shopping Cart developed by Razer Merchant Services R&D team.
 
@@ -68,3 +67,4 @@ Channel/Partner Enquiry : channel-sa@razer.com <br>
 Media Contact : media-sa@razer.com <br>
 R&D and Tech-related Suggestion : technical-sa@razer.com <br>
 Abuse Reporting : abuse-sa@razer.com
+
